@@ -1,0 +1,29 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output folders
+bin/
+out/
+
+# Dependency directories
+vendor/
+node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+
+# Go build cache
+*.log
+
+# Obsidian config (if synced)
+.obsidian/

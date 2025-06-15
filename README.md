@@ -1,2 +1,3 @@
-# MagiSystem_RFC
-PoCサブモジュール実装（Go）
+# Magi System RFC Repository
+
+PoC submodule implementation (Go)
