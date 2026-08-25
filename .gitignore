@@ -27,3 +27,6 @@ Thumbs.db
 
 # Obsidian config (if synced)
 .obsidian/
+
+# Local ephemeral development helpers
+.scratch/
